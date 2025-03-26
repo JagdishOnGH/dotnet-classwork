@@ -1,0 +1,11 @@
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\bin\Debug\LoginToDashboard.exe.config
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\bin\Debug\LoginToDashboard.exe
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\bin\Debug\LoginToDashboard.pdb
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.csproj.AssemblyReference.cache
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.Form1.resources
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.Properties.Resources.resources
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.csproj.GenerateResource.cache
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.exe
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.pdb
+C:\Users\Jagdish\source\repos\LoginToDashboard\LoginToDashboard\obj\Debug\LoginToDashboard.Dashboard.resources
